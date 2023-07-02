@@ -1,0 +1,116 @@
+*{
+    padding: 0px;
+    margin: 0;
+    /* box-sizing: border-box; */
+    text-align: center;
+    border-spacing: 0px;
+    
+}
+.navbar{
+    
+    padding: 50px;
+    background-image: url(./assets/png-transparent-ramadan-islam-ramadan-holidays-text-logo-thumbnail.png);
+}
+h1{
+    padding-top: 25px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 40px;
+    color: rgb(40, 39, 39);
+}
+h2{
+    padding-top: 4px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 35px;
+    color: rgb(99, 96, 96);
+}
+
+th{
+    padding: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+}
+table{
+    text-align: center;
+    margin-left: 200px;
+    /* border: 1px solid black; */
+    
+}
+/* .box{
+    border-style: solid;
+    border-color: blue;
+    border: 1px;
+
+    
+} */
+td{
+    border: 1px solid rgb(90, 181, 90);
+}
+.border{
+    border: 1px solid rgb(90, 181, 90);
+    background-color: rgb(233, 255, 233);
+}
+.border:hover{
+    background-color: aqua ; 
+    cursor: pointer;
+}
+.red{
+    color: red;
+    background-color: rgb(233, 255, 233);
+    -webkit-text-stroke-width: 1px;
+}
+.red:hover{
+    background-color: aqua ; 
+    cursor: pointer;
+}
+.bg{
+    background-color: rgb(233, 255, 233);
+    -webkit-text-stroke-width: 1px;
+}
+.bg:hover{
+   background-color: aqua ; 
+    cursor: pointer;
+}
+.green{
+    color: rgb(41, 157, 41);
+}
+.blue{
+    color: rgb(65, 65, 171);
+}
+.orange{
+    color: orange;
+}
+.pink{
+    color: rgb(86, 35, 173);
+    -webkit-text-stroke-width: 1px;
+    background-color: rgb(233, 255, 233);
+}
+.pink:hover{
+    background-color: aqua ; 
+    cursor: pointer;
+}
+.yellow{
+    color: brown;
+    -webkit-text-stroke-width: 1px;
+    background-color: rgb(233, 255, 233);
+}
+.yellow:hover{
+    background-color: aqua ; 
+    cursor: pointer;
+}
+h2>a>img:hover{
+    
+    cursor: pointer;
+}
+a{
+    padding-left: 100px;
+    padding-right: 100px;
+    
+}
+.bcolor:hover{
+    background-color: rgb(245, 143, 143);
+}
+.tr:hover{
+    color: aqua;
+}
+
+
